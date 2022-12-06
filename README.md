@@ -21,12 +21,12 @@ You must be developer, then add new application and copy TOKEN to **.env**.
 2. Bot -> Create New
 3. Bot -> Privileged Gateway Intents, check Presence Intent, Server Members Intent and Message Content Intent.
 4. Copy TOKEN
-5. Can use service like [Replit](https://replit.com) to host script.
+5. Deploy. Can use service like [Replit](https://replit.com) to host script.
 
 ### Create invite/install BOT link
 App/OAuth2 -> URL Generator -> check BOT -> Permissions: Manage Roles, Send Messages.
 
-### Use
+### Use on DC
 After add bot thru OAuth2 URL, enter server roles and move up and down to choose
 which roles bot can give or remove. All roles below bot's role are manageable for bot.
 Now you can add bot's role to channel of choice.
