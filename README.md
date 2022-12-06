@@ -1,6 +1,7 @@
 #### DISCORD BOT
 # WS Track
-## Hades' Star WS Track which lets define roles to automaticly give away after time end.
+## **Lets you give away roles after time period.**
+## Originally designed to track White Star events in game Hades' Star
 
 ---
 ### Local preparations (Linux/Debian/Ubuntu)
